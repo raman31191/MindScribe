@@ -50,13 +50,15 @@ Mind Scribe is designed to be a safe and uplifting space for users to explore th
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots of the application
+![Screenshot 2025-04-24 195326](https://github.com/user-attachments/assets/027cd6ee-4720-49c0-83a1-f79b89191f14)
+![Screenshot 2025-04-24 195649](https://github.com/user-attachments/assets/8885b872-4009-48f0-b69b-869c9e86784b)
+![Screenshot 2025-04-24 195342](https://github.com/user-attachments/assets/24ad7699-b05c-4101-89ec-085b317dea11)
+![Screenshot 2025-04-24 195435](https://github.com/user-attachments/assets/f750644a-bf29-414a-a8bd-d471ffcce369)![Screenshot 2025-04-24 195456](https://github.com/user-attachments/assets/6c75a011-9a5d-48ce-b545-8b21d5ed0248)
 
-![Screenshot 2025-04-24 195326](https://github.com/user-attachments/assets/7e4a7486-3e79-48c5-820d-b97ef3611928)
-![Screenshot 2025-04-24 195649](https://github.com/user-attachments/assets/aefae115-2fdf-4527-8ae2-910e74501ba2)
-![Screenshot 2025-04-24 195342](https://github.com/user-attachments/assets/45ba79cb-87ab-4997-b968-bba1fdcd1e34)
-![Screenshot 2025-04-24 195435](https://github.com/user-attachments/assets/0e7d0d6e-b2a9-47cf-bfd1-0f9a088eabf2)
-![Screenshot 2025-04-24 195456](https://github.com/user-attachments/assets/e1d8ec11-adcf-466f-980a-0b12070be3e2)
+
+
+
 
 ---
 
