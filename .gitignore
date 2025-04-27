@@ -1,3 +1,4 @@
 variable.env
-/build/
+
 lib/constants.dart
+/build/
