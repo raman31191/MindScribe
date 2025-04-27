@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:appwrite/appwrite.dart';
 import 'package:appwrite/models.dart' as models;
+import 'package:mental_health/constants.dart';
 import 'package:mental_health/service/waterdata_service.dart';
 import 'dart:math';
 import 'package:confetti/confetti.dart';
@@ -18,8 +19,8 @@ class _WaterReminderScreenState extends State<WaterReminderScreen> {
   final int goal = 4000;
 
   final Client client = Client()
-      .setEndpoint('https://cloud.appwrite.io/v1')
-      .setProject('67b199c1000934958d6a');
+      .setEndpoint(AppwriteConstants.endpoint)
+      .setProject(AppwriteConstants.databaseId);
 
   late final Account account;
   late final WaterService waterService;

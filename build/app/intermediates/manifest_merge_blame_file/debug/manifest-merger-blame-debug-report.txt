@@ -13,36 +13,36 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:8:5-66
-15-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:8:22-64
+15-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:8:5-66
+15-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:8:22-64
 16    <!-- Add permissions here -->
 17    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
-17-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:3:5-79
-17-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:3:22-76
+17-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:3:5-79
+17-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:3:22-76
 18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-18-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:4:5-77
-18-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:4:22-74
+18-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:4:5-77
+18-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:4:22-74
 19    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required for Android 13+ -->
-19-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:5:5-77
-19-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:5:22-74
+19-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:5:5-77
+19-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:5:22-74
 20    <uses-permission android:name="android.permission.WAKE_LOCK" />
-20-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:6:5-68
-20-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:6:22-65
+20-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:6:5-68
+20-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:6:22-65
 21    <uses-permission android:name="android.permission.VIBRATE" />
-21-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:7:5-66
-21-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:7:22-63
+21-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:7:5-66
+21-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:7:22-63
 22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-22-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:9:5-78
-22-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:9:22-76
+22-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:9:5-78
+22-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:9:22-76
 23    <uses-permission android:name="android.permission.CALL_PHONE" />
-23-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:10:5-68
-23-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:10:22-66
+23-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:10:5-68
+23-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:10:22-66
 24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-24-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:11:5-79
-24-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:11:22-77
+24-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:11:5-79
+24-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:11:22-77
 25    <uses-permission android:name="android.permission.CAMERA" />
-25-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:12:1-60
-25-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:12:18-58
+25-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:12:1-60
+25-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:12:18-58
 26    <!--
 27 Required to query activities that can process text, see:
 28         https://developer.android.com/training/package-visibility and
@@ -51,16 +51,16 @@
 31         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 32    -->
 33    <queries>
-33-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:61:5-66:15
+33-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:61:5-66:15
 34        <intent>
-34-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:62:9-65:18
+34-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:62:9-65:18
 35            <action android:name="android.intent.action.PROCESS_TEXT" />
-35-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:63:13-72
-35-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:63:21-70
+35-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:63:13-72
+35-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:63:21-70
 36
 37            <data android:mimeType="text/plain" />
-37-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:64:13-50
-37-->C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\android\app\src\main\AndroidManifest.xml:64:19-48
+37-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:64:13-50
+37-->C:\Users\raman\OneDrive\Desktop\mentalhealth\android\app\src\main\AndroidManifest.xml:64:19-48
 38        </intent>
 39    </queries>
 40
@@ -125,53 +125,53 @@
 93            android:value="2" />
 94
 95        <provider
-95-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-17:20
+95-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-17:20
 96            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-96-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-82
+96-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-82
 97            android:authorities="com.example.mentalhealth.flutter.image_provider"
-97-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+97-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 98            android:exported="false"
-98-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+98-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 99            android:grantUriPermissions="true" >
-99-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-47
+99-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-47
 100            <meta-data
-100-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-16:75
+100-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-16:75
 101                android:name="android.support.FILE_PROVIDER_PATHS"
-101-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-67
+101-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-67
 102                android:resource="@xml/flutter_image_picker_file_paths" />
-102-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-72
+102-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-72
 103        </provider> <!-- Trigger Google Play services to install the backported photo picker module. -->
 104        <service
-104-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-31:19
+104-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-31:19
 105            android:name="com.google.android.gms.metadata.ModuleDependencies"
-105-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-78
+105-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-78
 106            android:enabled="false"
-106-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-36
+106-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-36
 107            android:exported="false" >
-107-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
+107-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
 108            <intent-filter>
-108-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-26:29
+108-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-26:29
 109                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
-109-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-94
-109-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:25:25-91
+109-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-94
+109-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:25:25-91
 110            </intent-filter>
 111
 112            <meta-data
-112-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-30:36
+112-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-30:36
 113                android:name="photopicker_activity:0:required"
-113-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:29:17-63
+113-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:29:17-63
 114                android:value="" />
-114-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-33
+114-->[:image_picker_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-33
 115        </service>
 116
 117        <activity
-117-->[:url_launcher_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-11:74
+117-->[:url_launcher_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-11:74
 118            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-118-->[:url_launcher_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-74
+118-->[:url_launcher_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-74
 119            android:exported="false"
-119-->[:url_launcher_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-37
+119-->[:url_launcher_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-37
 120            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-120-->[:url_launcher_android] C:\Users\raman\OneDrive\Desktop\dev\projects\flutter\mentalhealth\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
+120-->[:url_launcher_android] C:\Users\raman\OneDrive\Desktop\mentalhealth\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
 121
 122        <uses-library
 122-->[androidx.window:window:1.2.0] C:\Users\raman\.gradle\caches\transforms-3\8859fd2468ade3ef2655d1f63d6737f2\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40

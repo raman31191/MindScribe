@@ -1,10 +1,11 @@
 import 'package:appwrite/appwrite.dart';
+import 'package:mental_health/constants.dart';
 
 class WaterService {
   final Databases database;
 
-  final String databaseId = '67caef3700110ee0cda9';
-  final String collectionId = '6800d9020019b1461d43';
+  final String databaseId = AppwriteConstants.databaseId;
+  final String collectionId = AppwriteConstants.waterCollectionId;
 
   WaterService(Client client) : database = Databases(client);
 

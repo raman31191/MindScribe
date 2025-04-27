@@ -1,5 +1,6 @@
 import 'package:appwrite/appwrite.dart';
 import 'package:appwrite/models.dart';
+import 'package:mental_health/constants.dart';
 
 class AuthService {
   late Client client;
@@ -7,8 +8,8 @@ class AuthService {
 
   AuthService() {
     client = Client()
-      ..setEndpoint('https://cloud.appwrite.io/v1') // Your Appwrite endpoint
-      ..setProject('67b199c1000934958d6a'); // Your Project ID
+      ..setEndpoint(AppwriteConstants.endpoint) // Your Appwrite endpoint
+      ..setProject(AppwriteConstants.databaseId); // Your Project ID
 
     account = Account(client);
   }

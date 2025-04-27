@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:image/image.dart' as img;
 import 'package:image_picker/image_picker.dart';
 import 'package:appwrite/appwrite.dart';
+import 'package:mental_health/constants.dart';
 import 'package:path_provider/path_provider.dart';
 
 class UploadProfilePictureScreen extends StatefulWidget {
@@ -21,11 +22,11 @@ class _UploadProfilePictureScreenState
   late Account account;
   late Databases databases;
 
-  final String endpoint = 'https://cloud.appwrite.io/v1';
-  final String projectId = '67b199c1000934958d6a';
-  final String bucketId = '67f1b49f0002f798c30d';
-  final String databaseId = '67caef3700110ee0cda9';
-  final String collectionId = '67caf008003e21c3b2a2';
+  final String endpoint = AppwriteConstants.endpoint;
+  final String projectId = AppwriteConstants.projectId;
+  final String bucketId = AppwriteConstants.bucketId;
+  final String databaseId = AppwriteConstants.databaseId;
+  final String collectionId = AppwriteConstants.collectionId;
 
   bool _isLoading = false;
   Uint8List? _profileImageBytes;

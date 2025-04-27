@@ -1,10 +1,11 @@
 import 'package:appwrite/appwrite.dart';
 import 'package:appwrite/models.dart' as models;
+import 'package:mental_health/constants.dart';
 
 class NotesService {
   final Databases _databases;
-  final String _databaseId = '67caef3700110ee0cda9';
-  final String _collectionId = '67caf008003e21c3b2a2';
+  final String _databaseId = AppwriteConstants.databaseId;
+  final String _collectionId = AppwriteConstants.collectionId;
 
   NotesService(Client client) : _databases = Databases(client);
 

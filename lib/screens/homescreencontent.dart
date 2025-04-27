@@ -6,13 +6,14 @@ import 'package:mental_health/screens/DailyReminder/readbookscreen.dart';
 import 'package:mental_health/screens/DailyReminder/stretchingscreen.dart';
 import 'package:mental_health/screens/DailyReminder/walkscreen.dart';
 import 'package:mental_health/screens/DailyReminder/water_reminder.dart';
-import 'package:mental_health/screens/chatscreen.dart';
+
 import 'package:mental_health/screens/moodscreen/calm_screen.dart';
 import 'package:mental_health/screens/moodscreen/energetic_screen.dart';
 import 'package:mental_health/screens/moodscreen/focused_screen.dart';
 import 'package:mental_health/screens/moodscreen/happy_screen.dart';
 import 'package:mental_health/screens/moodscreen/relax_screen.dart';
 import 'package:mental_health/screens/notes_screen.dart';
+import 'package:mental_health/screens/profilescreen.dart';
 import 'package:mental_health/screens/quiz_option.dart';
 
 class HomeScreenContent extends StatefulWidget {
@@ -95,7 +96,7 @@ class HomeScreenContentState extends State<HomeScreenContent> {
             // Replace with your chatbot screen
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => ChatbotScreen()),
+              MaterialPageRoute(builder: (context) => ProfileScreen()),
             );
           },
           backgroundColor: const Color.fromARGB(255, 218, 140, 186),

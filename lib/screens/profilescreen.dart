@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:mental_health/constants.dart';
 import 'package:mental_health/service/auth_service.dart';
 import 'package:mental_health/service/auth_screen.dart';
 import 'package:provider/provider.dart';
@@ -23,12 +24,11 @@ class _ProfileScreenState extends State<ProfileScreen> {
   late Account _account;
   late Storage _storage;
 
-  final String endpoint = 'https://cloud.appwrite.io/v1';
-  final String projectId = '67b199c1000934958d6a';
-  final String databaseId = '67caef3700110ee0cda9';
-  final String collectionId = '67caf008003e21c3b2a2';
-  final String bucketId = '67f1b49f0002f798c30d';
-
+  final String endpoint = AppwriteConstants.endpoint;
+  final String projectId = AppwriteConstants.projectId;
+  final String databaseId = AppwriteConstants.databaseId;
+  final String collectionId = AppwriteConstants.collectionId;
+  final String bucketId = AppwriteConstants.bucketId;
   String? _profileImageUrl;
 
   @override

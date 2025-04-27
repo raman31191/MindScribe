@@ -144,24 +144,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\raman\\.gradle\\caches\\transforms-3\\7b5a837770709484bd30395a2788a4e5\\transformed\\lifecycle-viewmodel-2.7.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
-                    },
-                    "to": {
-                        "startLines": "153",
-                        "startColumns": "4",
-                        "startOffsets": "7732",
-                        "endColumns": "49",
-                        "endOffsets": "7777"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\raman\\OneDrive\\Desktop\\dev\\projects\\flutter\\mentalhealth\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\raman\\OneDrive\\Desktop\\mentalhealth\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -177,6 +160,23 @@
                         "endLines": "182,185",
                         "endColumns": "12,12",
                         "endOffsets": "9746,9915"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\raman\\.gradle\\caches\\transforms-3\\7b5a837770709484bd30395a2788a4e5\\transformed\\lifecycle-viewmodel-2.7.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "153",
+                        "startColumns": "4",
+                        "startOffsets": "7732",
+                        "endColumns": "49",
+                        "endOffsets": "7777"
                     }
                 },
                 {
