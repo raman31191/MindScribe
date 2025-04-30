@@ -54,7 +54,9 @@ Mind Scribe is designed to be a safe and uplifting space for users to explore th
 ![Screenshot 2025-04-24 195326](https://github.com/user-attachments/assets/027cd6ee-4720-49c0-83a1-f79b89191f14)
 ![Screenshot 2025-04-24 195649](https://github.com/user-attachments/assets/8885b872-4009-48f0-b69b-869c9e86784b)
 ![Screenshot 2025-04-24 195342](https://github.com/user-attachments/assets/24ad7699-b05c-4101-89ec-085b317dea11)
-![Screenshot 2025-04-24 195435](https://github.com/user-attachments/assets/f750644a-bf29-414a-a8bd-d471ffcce369)![Screenshot 2025-04-24 195456](https://github.com/user-attachments/assets/6c75a011-9a5d-48ce-b545-8b21d5ed0248)
+![Screenshot_1746011556](https://github.com/user-attachments/assets/7b65864a-7e68-49cc-8bed-0b715ae0184f)
+
+[Screenshot 2025-04-24 195456](https://github.com/user-attachments/assets/6c75a011-9a5d-48ce-b545-8b21d5ed0248)
 
 
 
